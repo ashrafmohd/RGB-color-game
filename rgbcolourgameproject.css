@@ -1,0 +1,103 @@
+body
+{
+background: #232323;
+margin: 0px;
+
+}
+
+.box {
+	text-align: center;
+	width: 30%;
+	background: blue;
+	padding-bottom:  30%;
+	float: left;
+	
+	margin:   1.66%;
+
+	border-radius: 30%;
+	transition: all 0.8s;
+
+}
+ 
+#square
+{
+	text-align: center;
+	max-width: 490px;
+	margin:0px auto;
+
+}
+
+ 
+	
+	.col
+	{
+		text-align: center;
+		color: black;
+	}
+
+
+h1
+{
+	background: rgb(0, 200, 200);
+	color: white;
+	font-family: "Arial";
+    margin: 0px;
+	text-align: center;
+	text-transform: uppercase;
+}
+
+button
+{
+	border: none;
+	background: none;
+	height: 100%;
+	text-align: center;
+		text-transform: uppercase;
+	font-weight: 800;
+	color: steelblue;
+	transition: all 0.4s;
+	font-family: "Arial";
+	outline: none;
+
+
+}
+
+.whenwrong
+{
+	background: #232323;
+}
+#tryagain
+{
+	color: steelblue;
+	text-transform: uppercase;
+	font-weight: 700;
+	font-family: "Arial";
+	display: inline-block;
+	width: 30%;
+
+
+}
+
+
+
+#line
+{
+	background: white;
+	text-align: center;
+
+
+}
+.selected
+{
+	background: rgb(0, 200, 200);
+}
+#colornum
+{
+	font-size: 200%;
+}
+
+button:hover
+{
+	color: black;
+	background: rgb(0, 200, 200);
+}
